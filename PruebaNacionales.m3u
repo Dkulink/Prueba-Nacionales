@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/es/reportv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-reunion.com.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/sv/tv.nu.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml"
+#EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="General",Canal 2 (360p)
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Undefined",Canal 4 (720p)
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="Undefined",Canal 6 (720p)
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="Undefined",Canal 8 (720p)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="General",Canal 11
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal13Sinart.cr" tvg-logo="https://i.imgur.com/lz9ZqKh.png" group-title="Undefined",Canal 13 Sinart (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
+#EXTINF:-1 tvg-id="TVN14.cr" tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="Undefined",Canal 14 San Carlos (720p)
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal38.cr" tvg-logo="https://i.imgur.com/8q7BNBq.png" group-title="Music",Canal 38 (720p) [Not 24/7]
+https://rtmp.info/canal38/envivo/chunks.m3u8
